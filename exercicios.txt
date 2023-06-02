@@ -1,0 +1,94 @@
+Exercícios sobre classes, atributos, métodos e membros estáticos
+
+Exercício 1:
+Fazer um programa para ler os dados de duas pessoas, depois mostrar o nome da pessoa mais
+velha.
+
+Exemplo:
+Dados da primeira pessoa:
+Nome: Maria
+Idade: 17
+Dados da segunda pessoa:
+Nome: Laura
+Idade: 16
+Pessoa mais velha: Maria
+
+Exercício 2:
+Fazer um programa para ler nome e salário de dois funcionários. Depois, mostrar o salário
+médio dos funcionários.
+
+Exemplo:
+Dados do primeiro funcionario:
+Nome: Carlos Silva
+Salario: 6300.00
+Dados do segundo funcionario:
+Nome: Ana Marques
+Salario: 6700.00
+Salario medio = 6500.00
+
+Exercício 3:
+Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida,
+mostrar na tela o valor de sua área, perímetro e diagonal.
+
+Exemplo:
+Entre com a largura e altura do retangulo:
+3.00
+4.00
+AREA = 12.00
+PERIMETRO = 14.00
+DIAGONAL = 5.00
+
+Exercício 4:
+Fazer um programa para ler os dados de um funcionário (nome, salário bruto e imposto). Em
+seguida, mostrar os dados do funcionário (nome e salário líquido). Em seguida, aumentar o
+salário do funcionário com base em uma porcentagem dada (somente o salário bruto é
+afetado pela porcentagem) e mostrar novamente os dados do funcionário.
+
+Exemplo:
+Nome: Camila Prado
+Salario bruto: 6000.00
+Imposto: 1000.00
+
+Funcionario: Camila Prado, $ 5000.00
+
+Digite a porcentagem para aumentar o salario: 10.0
+
+Dados atualizados: Camila Prado, $ 5600.00
+
+Exercício 5:
+Fazer um programa para ler o nome de um aluno e as três notas que ele obteve nos três
+trimestres do ano (primeiro trimestre vale 30 e o segundo e terceiro valem 35 cada).
+Ao final, mostrar qual a nota final do aluno no ano. Dizer também se o aluno está
+APROVADO ou REPROVADO e, em caso negativo, quantos pontos faltam para o aluno obter
+o mínimo para ser aprovado (que é 60 pontos). Você deve criar uma classe Aluno para
+resolver este problema.
+
+Exemplo 1:
+Nome do aluno: Alex Green
+Digite as tres notas do aluno:
+27.00
+31.00
+32.00
+NOTA FINAL = 90.00
+APROVADO
+
+Exemplo 2:
+Nome do aluno: Alex Green
+Digite as tres notas do aluno:
+17.00
+20.00
+15.00
+NOTA FINAL = 52.00
+REPROVADO
+FALTARAM 8.00 PONTOS
+
+Exercício 6:
+Faça um programa para ler a cotação do dólar, e depois um valor em dólares a ser comprado por
+uma pessoa em reais. Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda
+que a pessoa terá que pagar 6% de IOF sobre o valor em dólar. Criar uma classe ConversorDeMoeda
+para ser responsável pelos cálculos.
+
+Exemplo:
+Qual e a cotação do dolar? 3.10
+Quantos dolares voce vai comprar? 200.00
+Valor a ser pago em reais = 657.20
